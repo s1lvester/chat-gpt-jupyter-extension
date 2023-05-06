@@ -27,7 +27,8 @@
     {
       "matches": [
         "*://*/*.ipynb*",
-        "*://*/lab*"
+        "*://*/lab*",
+        "https://cdsw.*/editor/*"
       ],
       "js": ["content-script.js"],
       "css": ["content-script.css"]
